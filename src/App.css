@@ -1,0 +1,39 @@
+.main {
+  padding: 75px;
+}
+
+.weather {
+  display: inline-block;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+}
+
+.weather:first-child {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgba(195, 206, 207, 0.644);
+  background-color: rgba(238, 253, 253, 0.37);
+}
+
+.temp {
+  display: flex;
+  justify-content:center;
+  
+}
+
+.day {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.dropdown {
+  display: flex;
+  background-color: rgb(228, 242, 247);
+  background-size: auto ;
+  padding-top: 10px;
+  padding-left: 23px;
+  padding-bottom: 10px;
+}
