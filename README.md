@@ -4,4 +4,17 @@
 
 ## Özellikler
 
-+ deneme
++ Context API kullanılarak geliştirimiştir.
++ Dropdown aracılığı ile Türkiye'nin istediğiniz şehrini seçebilirsiniz.
++ Seçtiğiniz şehrin 7 günlük güncel hava durumu bilgisi görüntülenecek.
++ Görüntülenen veride o günün en yüksek ve en düşük sıcaklık değerleri bulunmaktadır.
++ Verileri temsilen o anki hava durumu değerlerine uygun olan görseller de görüntülenmektedir.
+
+## Kullanılan API'lar
+
++ Current Weather Data API openweathermap.org
++ Geocoding API openweathermap.org 
+
+## Kullanılan Kütüphaneler
+
++ Axios
